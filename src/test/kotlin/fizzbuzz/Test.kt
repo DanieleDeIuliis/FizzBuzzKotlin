@@ -1,0 +1,4 @@
+package fizzbuzz
+
+class Test {
+}
